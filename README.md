@@ -18,4 +18,6 @@ Didalam sebuah aplikasi pendataan mahasiswa ingin terdapat halaman web untuk men
 - Tambahkan database dengan nama "binusdatamahasiswa" dan lakukan migrate database "php artisan migrate" 
 - Jalankan "php artisan serve" 
     - Jika error silahkan lakukan "composer install" 
+    - Copy .env.example menjadi .env dan sesuaikan pengaturan databasenya
     - Lakukan generate key "php artisan key:generate"
+    
