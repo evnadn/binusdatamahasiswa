@@ -1,5 +1,4 @@
 ## TP 1 Web Programming - Binus University
-- EVAN ADRIAN
 
 ### Case
 Didalam sebuah aplikasi pendataan mahasiswa ingin terdapat halaman web untuk mengunggah file. Programmer diminta untuk membuatkan halaman web tersebut dengan ketentuan sebagai berikut:
